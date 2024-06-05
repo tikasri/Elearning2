@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use App\Models\Course;
 use Illuminate\Http\Request;
 
-class CourseConteroller extends Controller
+class CourseController extends Controller
 {
     //method untuk menampilkan data course
     public function index()
